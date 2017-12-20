@@ -1,0 +1,14 @@
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\bin\Debug\MHRS.exe.config
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\bin\Debug\MHRS.exe
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\bin\Debug\MHRS.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.Form1.resources
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.Properties.Resources.resources
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.csproj.GenerateResource.Cache
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.exe
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.pdb
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.KayitOl.resources
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.AnaSayfaRandevu.resources
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.csprojResolveAssemblyReference.cache
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.SifremiUnuttum.resources
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.Randevularr.resources
+C:\Users\Emine Hatun\Desktop\ödevler\MHRS\MHRS\obj\Debug\MHRS.KullaniciSecim.resources
